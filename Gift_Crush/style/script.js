@@ -27,6 +27,10 @@ const messages = [
     text: "Có được Thư chịu ghép tin là hạnh phúc bao điều 💕",
     gif: "https://i.pinimg.com/originals/be/39/be/be39be7b9b6a02e06f892798063406c8.gif",
   },
+  {
+    text: "By Tiến Thương",
+    gif: "https://i.pinimg.com/originals/be/39/be/be39be7b9b6a02e06f892798063406c8.gif",
+  },
 ];
 
 let currentIndex = 0;
